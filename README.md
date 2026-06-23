@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sindhu Nemanandam 👋
 
-<!--
-**sindhu1422/sindhu1422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+🐍 Currently Learning Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Interested in Cybersecurity
+
+🌱 Passionate about learning new technologies and improving technical skills
+
+## Technical Skills
+- SQL
+- DBMS
+- Tableau
+- Microsoft Excel
+- HTML
+- Python (Currently Learning)
+
+## Areas of Interest
+- Cybersecurity
+- Digital Forensics
+- Network Security
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/sindhu-nemanandam-51618331b
